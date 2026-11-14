@@ -1,0 +1,2 @@
+EventId,EmployeeID,EventType,FirstName,LastName,Department,JobTitle,ManagerUPN,EmployeeType,EffectiveDate,ApprovalID,ApprovalStatus
+EVT-0001,CHS-1042,JOINER,Avery,Reed,Clinical Operations,Integration Coordinator,manager@chs.example,Employee,2026-11-13,HR-APP-1042,Approved

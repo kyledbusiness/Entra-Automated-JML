@@ -1,0 +1,5 @@
+EventId,EmployeeID,EventType,FirstName,LastName,Department,JobTitle,ManagerUPN,EmployeeType,EffectiveDate,ApprovalID,ApprovalStatus
+EVT-9001,CHS-9001,JOINER,Casey,Lopez,Clinical Operations ,Coordinator,manager@chs.example,Employee,2026-11-13,HR-APP-9001,Approved
+EVT-9002,CHS-9002,JOINER,Morgan,Park,Unknown Department,Analyst,manager@chs.example,Employee,2026-11-13,HR-APP-9002,Approved
+EVT-9003,CHS-9003,JOINER,Robin,Gray,Finance,Analyst,manager@chs.example,Employee,2026-11-13,HR-APP-9003,Pending
+EVT-9003,CHS-9004,JOINER,Alex,West,Finance,Analyst,manager@chs.example,Employee,2026-11-13,HR-APP-9004,Approved

@@ -1,0 +1,14 @@
+{
+  "ManagedCompanyName": "CHS-JML-LAB",
+  "AllowedDepartments": [
+    "Clinical Operations",
+    "Finance",
+    "Human Resources",
+    "Information Technology"
+  ],
+  "AllowedEmployeeTypes": [
+    "Employee",
+    "Contractor"
+  ],
+  "EmployeeIdPattern": "^CHS-[0-9]{4,6}$"
+}

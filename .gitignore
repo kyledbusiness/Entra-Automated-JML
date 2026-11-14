@@ -1,0 +1,15 @@
+
+# Private HR records and tenant-specific data
+Private-Data/
+
+# Environment files and secrets
+.env
+.env.*
+
+# Temporary logs
+*.log
+
+# PowerShell temporary files
+*.tmp
+
+Reports/
