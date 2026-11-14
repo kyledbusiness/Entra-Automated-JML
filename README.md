@@ -35,11 +35,11 @@ Simulated HR event (Joiner / Mover / Leaver)
                   |
                   v
     Supervised Microsoft Graph change
-      /             |             \
-  JOINER          MOVER          LEAVER
- Create user    Change role       Disable
- + manager      attributes        + revoke sessions
-      \             |             /
+      /           |             \
+  JOINER        MOVER          LEAVER
+ Create user  Change role       Disable
+ + manager    attributes.    + revoke sessions
+      \           |             /
                   v
     Read back account state in Entra
                   |
