@@ -1,5 +1,7 @@
 # From HR Events to Verified Access Changes | Automated JML with Microsoft Entra ID
 
+**[Watch the 5 minute project walkthrough video](https://www.loom.com/share/5c08c41b35044eb58320d1a13589371f)**
+
 **Identity Lifecycle Management (JML) · Microsoft Graph PowerShell · Dynamic Groups · RBAC · TAP · FIDO2 Passkeys · Least Privilege · Audit Evidence**
 
 > **An employee transferring departments should not take yesterday's access into tomorrow's job. And when that employee leaves, their account should not remain a way back in.**
